@@ -1,0 +1,29 @@
+.navbar{
+    background-color: #FADBD8;
+}
+
+.quem-somos{
+    background-color: #E8DAEF;
+    color: #6C3483;
+}
+
+.margin{
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.parceiros{
+    background-color: #F6DDCC;
+    color: #EC7063;
+}
+
+.serviços{
+    background-color:#E6B0AA ;
+    color: #C0392B;
+}
+
+.assinatura{
+    background-color: #E6B0AA;
+    color:slateblue;
+
+}
